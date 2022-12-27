@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: row;
+    margin-right: 15px;
+    font-size: 100;
+    text-indent: 1em;
+}
